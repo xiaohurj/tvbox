@@ -5,68 +5,80 @@
             "name": "💗公众号《小胡软件》💗"
         },
         {
+            "url": "本接口由公众号《小胡软件》整理",
+            "name": "💗接口都是大佬那扒来的💗"
+        },
+        {
+            "url": "本接口由公众号《小胡软件》整理",
+            "name": "💗只是为了给小白们方便💗"
+        },
+         {
+            "url": "本接口由公众号《小胡软件》整理",
+            "name": "💗有时间就会更新💗"
+        },
+        {
             "url": "http://w.g9.pub:66/381203888/666.json",
-            "name": "💗1💗"
+            "name": "💗接口1💗"
         },
         {
             "url": "https://神器每日推送.tk/pz.json",
-            "name": "💗2💗"
+            "name": "💗接口2💗"
         },
         {
             "url": "http://饭太硬.ga/x/o.json",
-            "name": "💗3💗"
+            "name": "💗接口3💗"
         },
         {
             "url": "https://dxawi.github.io/0/0.json",
-            "name": "💗4💗"
+            "name": "💗接口4💗"
         },
         {
             "url": "http://miaotvs.cn/meow",
-            "name": "💗5💗"
+            "name": "💗接口5💗"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
-            "name": "💗6💗"
+            "name": "💗接口6💗"
         },
         {
             "url": "http://js.134584.xyz/json/pp87.json ",
-            "name": "💗7💗"
+            "name": "💗接口7💗"
         },
         {
             "url": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/Avatar.json",
-            "name": "💗8💗"
+            "name": "💗接口8💗"
         },
         {
             "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-            "name": "💗9💗"
+            "name": "💗接口9💗"
         },
         {
             "url": "http://111.67.196.181/mtv/meow.txt",
-            "name": "💓10💓"
+            "name": "💓接口10💓"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/cfg.json ",
-            "name": "💗11💗"
+            "name": "💗接口11💗"
         },
         {
             "url": "https://download.kstore.space/download/2883/PY/0902mystv.txt",
-            "name": "💗12💗"
+            "name": "💗接口12💗"
         },
         {
             "url": "https://agit.ai/chuqiuyu/gao/raw/commit/8945d1b27933e8e6d18bfad7a76153610b555d12/0820.json",
-            "name": "💗13💗"
+            "name": "💗接口13💗"
         },
         {
             "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "💗14💗"
+            "name": "💗接口14💗"
         },
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "💗15💗"
+            "name": "💗接口15💗"
         },
         {
             "url": "https://agit.ai/66666/mao/raw/branch/master/00/%E8%87%AA%E7%94%A8.jpg  ",
-            "name": "💗16💗"
+            "name": "💗接口16💗"
         }
       
     ]
