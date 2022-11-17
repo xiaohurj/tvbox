@@ -14,67 +14,79 @@
         },
         {
             "url": "http://w.g9.pub:66/381203888/666.json",
-            "name": "💗接口1💗"
+            "name": "💗线路1💗"
         },
         {
             "url": "https://神器每日推送.tk/pz.json",
-            "name": "💗接口2💗"
+            "name": "💗线路2💗"
         },
         {
-            "url": "http://饭太硬.ga/x/o.json",
-            "name": "💗接口3💗"
+            "url": "https://tvbox.cainisi.cf",
+            "name": "💗线路3💗"
         },
         {
             "url": "https://dxawi.github.io/0/0.json",
-            "name": "💗接口4💗"
+            "name": "💗线路4💗"
         },
         {
             "url": "http://miaotvs.cn/meow",
-            "name": "💗接口5💗"
+            "name": "💗线路5💗"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
-            "name": "💗接口6💗"
+            "name": "💗线路6💗"
         },
         {
-            "url": "http://js.134584.xyz/json/pp87.json ",
-            "name": "💗接口7💗"
+            "url": "http://js.134584.xyz/json/pp87.json",
+            "name": "💗线路7💗"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "💗线路8💗"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "💗线路9💗"
+        },
+        {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "name": "💗线路10💗"
         },
         {
             "url": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/Avatar.json",
-            "name": "💗接口8💗"
+            "name": "💗线路11💗"
         },
         {
             "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-            "name": "💗接口9💗"
+            "name": "💗线路12💗"
         },
         {
             "url": "http://111.67.196.181/mtv/meow.txt",
-            "name": "💓接口10💓"
+            "name": "💓线路13💓"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/cfg.json ",
-            "name": "💗接口11💗"
+            "name": "💗线路14💗"
         },
         {
             "url": "https://download.kstore.space/download/2883/PY/0902mystv.txt",
-            "name": "💗接口12💗"
+            "name": "💗线路15💗"
         },
         {
             "url": "https://agit.ai/chuqiuyu/gao/raw/commit/8945d1b27933e8e6d18bfad7a76153610b555d12/0820.json",
-            "name": "💗接口13💗"
+            "name": "💗线路16💗"
         },
         {
             "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "💗接口14💗"
+            "name": "💗线路17💗"
         },
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "💗接口15💗"
+            "name": "💗线路18💗"
         },
         {
             "url": "https://agit.ai/66666/mao/raw/branch/master/00/%E8%87%AA%E7%94%A8.jpg  ",
-            "name": "💗接口16💗"
+            "name": "💗线路19💗"
         }
       
     ]
