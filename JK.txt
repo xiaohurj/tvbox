@@ -62,7 +62,7 @@
         },
         {
             "url": "http://111.67.196.181/mtv/meow.txt",
-            "name": "💓线路13💓"
+            "name": "💗线路13💗"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/cfg.json ",
