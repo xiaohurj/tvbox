@@ -1,9 +1,13 @@
-{[
-{"sourceName":"  ①号库
-","sourceUrl":"      https://box.nxog.top/1
-"},
-  
-{"sourceName":"  ②号库
-","sourceUrl":"      https://box.nxog.top/2
-"},
-] }
+
+{
+  "storeHouse": [{
+    "sourceName": "1号仓库",
+    "sourceUrl": "https://raw.iqiq.io/xiaohurj/tvbox/main/JK.txt"
+  }, {
+    "sourceName": "2号仓库",
+    "sourceUrl": "https://raw.iqiq.io/xiaohurj/tvbox/main/JK2.txt"
+  }, {
+    "sourceName": "2号仓库",
+    "sourceUrl": "https://raw.iqiq.io/xiaohurj/tvbox/main/JK3.txt"
+  }]
+}
