@@ -13,7 +13,7 @@
             "name": "💗有时间就更新💗"
         },
         {
-            "url": "http://w.g9.pub:66/381203888/666.json",
+            "url": "http://fcys.xyz/102/c.json",
             "name": "💗线路1💗"
         },
         {
@@ -29,7 +29,7 @@
             "name": "💗线路4💗"
         },
         {
-            "url": "http://miaotvs.cn/meow",
+            "url": "http://w.g9.pub:66/381203888/666.json",
             "name": "💗线路5💗"
         },
         {
@@ -85,8 +85,12 @@
             "name": "💗线路18💗"
         },
         {
-            "url": "https://agit.ai/66666/mao/raw/branch/master/00/%E8%87%AA%E7%94%A8.jpg  ",
+            "url": "http://miaotvs.cn/meow",
             "name": "💗线路19💗"
+        },
+        {
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/%E8%87%AA%E7%94%A8.jpg  ",
+            "name": "💗线路20💗"
         }
       
     ]
