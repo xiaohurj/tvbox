@@ -51,46 +51,6 @@
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
             "name": "💗线路10💗"
-        },
-        {
-            "url": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/Avatar.json",
-            "name": "💗线路11💗"
-        },
-        {
-            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-            "name": "💗线路12💗"
-        },
-        {
-            "url": "http://111.67.196.181/mtv/meow.txt",
-            "name": "💗线路13💗"
-        },
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/cfg.json ",
-            "name": "💗线路14💗"
-        },
-        {
-            "url": "https://download.kstore.space/download/2883/PY/0902mystv.txt",
-            "name": "💗线路15💗"
-        },
-        {
-            "url": "https://agit.ai/chuqiuyu/gao/raw/commit/8945d1b27933e8e6d18bfad7a76153610b555d12/0820.json",
-            "name": "💗线路16💗"
-        },
-        {
-            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "💗线路17💗"
-        },
-        {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "💗线路18💗"
-        },
-        {
-            "url": "http://miaotvs.cn/meow",
-            "name": "💗线路19💗"
-        },
-        {
-            "url": "https://agit.ai/66666/mao/raw/branch/master/00/%E8%87%AA%E7%94%A8.jpg  ",
-            "name": "💗线路20💗"
         }
       
     ]
