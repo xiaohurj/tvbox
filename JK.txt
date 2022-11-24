@@ -13,7 +13,7 @@
             "name": "💗有时间就更新💗"
         },
         {
-            "url": "http://fcys.xyz/102/c.json",
+            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
             "name": "💗线路1💗"
         },
         {
