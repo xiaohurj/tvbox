@@ -13,64 +13,52 @@
             "name": "💗12月1日更新💗"
         },
         {
-            "url": "http://miaotvs.cn/osc",
+            "url": "https://神器每日推送.tk/pz.json",
             "name": "💗线路1💗"
         },
         {
-            "url": "https://神器每日推送.tk/pz.json",
+            "url": "https://tvbox.cainisi.cf",
             "name": "💗线路2💗"
         },
         {
-            "url": "https://tvbox.cainisi.cf",
+            "url": "https://dxawi.github.io/0/0.json",
             "name": "💗线路3💗"
         },
         {
-            "url": "https://dxawi.github.io/0/0.json",
+            "url": "http://刚刚.live/猫",
             "name": "💗线路4💗"
         },
         {
-            "url": "http://刚刚.live/猫",
+            "url": "https://raw.liucn.cc/box/m.json",
             "name": "💗线路5💗"
         },
         {
-            "url": "https://raw.liucn.cc/box/m.json",
+            "url": "http://js.134584.xyz/json/pp87.json",
             "name": "💗线路6💗"
         },
         {
-            "url": "http://js.134584.xyz/json/pp87.json",
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
             "name": "💗线路7💗"
         },
         {
-            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
             "name": "💗线路8💗"
         },
         {
-            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
             "name": "💗线路9💗"
         },
         {
-            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+            "url": "https://try.gitea.io/xcxc8/mytv/raw/branch/main/TV.json",
             "name": "💗线路10💗"
         },
         {
-            "url": "http://www.dmtv.ml/mao/mao.php?type=single",
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
             "name": "💗线路11💗"
         },
         {
-            "url": "https://try.gitea.io/xcxc8/mytv/raw/branch/main/TV.json",
-            "name": "💗线路12💗"
-        },
-        {
-            "url": "https://agit.ai/hu/hcr/raw/branch/master/MMM.txt",
-            "name": "💗线路13💗"
-        },
-        {
-            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-            "name": "💗线路14💗"
-        },
-        {
             "url": "http://8.210.220.114:8888/down/c9s9YQVDdqYw.json",
-            "name": "💗线路15💗"
+            "name": "💗线路12💗"
         }
       
     ]
