@@ -10,10 +10,10 @@
         },
          {
             "url": "本接口由公众号《小胡软件》整理",
-            "name": "💗有时间就更新💗"
+            "name": "💗12月1日更新💗"
         },
         {
-            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+            "url": "http://miaotvs.cn/osc",
             "name": "💗线路1💗"
         },
         {
@@ -29,7 +29,7 @@
             "name": "💗线路4💗"
         },
         {
-            "url": "http://w.g9.pub:66/381203888/666.json",
+            "url": "http://刚刚.live/猫",
             "name": "💗线路5💗"
         },
         {
@@ -41,16 +41,36 @@
             "name": "💗线路7💗"
         },
         {
-            "url": "http://home.jundie.top:81/top98.json",
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
             "name": "💗线路8💗"
         },
         {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
             "name": "💗线路9💗"
         },
         {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
             "name": "💗线路10💗"
+        },
+        {
+            "url": "http://www.dmtv.ml/mao/mao.php?type=single",
+            "name": "💗线路11💗"
+        },
+        {
+            "url": "https://try.gitea.io/xcxc8/mytv/raw/branch/main/TV.json",
+            "name": "💗线路12💗"
+        },
+        {
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/MMM.txt",
+            "name": "💗线路13💗"
+        },
+        {
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "💗线路14💗"
+        },
+        {
+            "url": "http://8.210.220.114:8888/down/c9s9YQVDdqYw.json",
+            "name": "💗线路15💗"
         }
       
     ]
