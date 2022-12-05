@@ -61,10 +61,6 @@
             "name": "此线路视频内有广告"
         },
         {
-            "url": "http://byyds.top/w.txt",
-            "name": "线路12"
-        },
-        {
             "url": "https://hutool.ml/tang",
             "name": "线路13"
         },
