@@ -9,6 +9,10 @@
             "name": "💗12月8日更新💗"
         },
         {
+            "url": "本接口由公众号《小胡软件》整理",
+            "name": "💗CHINA💗"
+        },
+        {
             "url": "https://tvbox.cainisi.cf",
             "name": "👸菜妮丝xBPQ"
         },
