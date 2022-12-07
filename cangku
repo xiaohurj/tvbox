@@ -1,6 +1,5 @@
-
-{
-  "storeHouse": [
+  {
+    "storeHouse": [
   {
     "sourceName": "🦄微信公众号🦄",
     "sourceUrl": "1"
@@ -10,16 +9,40 @@
     "sourceUrl": "2"
   },
   {
-    "sourceName": "🦄12月5日更新🦄",
+    "sourceName": "🦄12月8日更新🦄",
     "sourceUrl": "3"
   },
   {
-    "sourceName": "暂时去掉网络接口",
+    "sourceName": "💗CHINA💗",
     "sourceUrl": "4"
   },
   {
-    "sourceName": "🦄小胡精选🦄",
+    "sourceName": "🏆小胡精选仓🏆",
     "sourceUrl": "https://raw.iqiq.io/xiaohurj/tvbox/main/JK.txt"
-  }
+  },
+  {
+    "sourceName": "🦄以下网络收集🦄",
+    "sourceUrl": "5"
+  },
+  {
+    "sourceName": "🦄不保证都能用🦄",
+    "sourceUrl": "6"
+  },
+  {
+    "sourceName": "网络仓库1",
+    "sourceUrl": "https://agit.ai/gk0748/gk0/raw/branch/master/fj.txt"
+  },
+  {
+    "sourceName": "网络仓库2",
+    "sourceUrl": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/1"
+  },
+  {
+    "sourceName": "网络仓库3",
+    "sourceUrl": "https://agit.ai/hu/hcr/raw/commit/beb954f1ae6828ab8dc86b4059cf98e6378bce3b/duo.txt"
+  },
+  {
+    "sourceName": "网络仓库4",
+    "sourceUrl": "https://agit.ai/leroy/leroy/raw/branch/master/22.bin"
+  },
   ]
 }
