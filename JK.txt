@@ -70,7 +70,7 @@
         },
         {
             "url": "http://52bsj.vip:98/wuai",
-            "name": "🦊吾爱"
+            "name": "⛹吾爱"
         },
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
