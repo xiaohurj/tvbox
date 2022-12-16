@@ -6,6 +6,7 @@
 {"key":"mtv_pc_快看影视","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_360影视" ,"name":"🍀360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_两个磁力","name":"💥两个bt","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_xbb_555电影","name":"🍀555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/555电影.json"},
 
 {"key":"mtv_xp_乐猪影院","name":"🐖乐猪影院","type":3,"api":"csp_XPathMac"      ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-乐猪影院.json"},
 {"key":"mtv_xp_VOFLIXS" ,"name":"🏃VOFLIXS" ,"type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-VOFLIXS.json"},
