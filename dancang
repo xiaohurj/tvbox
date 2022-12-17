@@ -25,10 +25,6 @@
             "name": "👺神器"
         },
         {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "👻巧技"
-        },
-        {
             "url": "http://drpy.site/js1",
             "name": "👼小雅js"
         },
@@ -49,24 +45,8 @@
             "name": "💀潇洒"
         },
         {
-            "url": "https://卧槽.live/好骚",
-            "name": "💁小白"
-        },
-        {
-            "url": "https://agit.ai/pinghui/xinghe/raw/branch/master/jb.txt",
-            "name": "🌟星河"
-        },
-        {
             "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
             "name": "💂蚂蚁论坛"
-        },
-        {
-            "url": "http://js.134584.xyz/json/pp87.json",
-            "name": "💃白嫖"
-        },
-        {
-            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-            "name": "🍅小苹果"
         },
         {
             "url": "http://52bsj.vip:98/wuai",
@@ -77,24 +57,12 @@
             "name": "🦀南风"
         },
         {
-            "url": "http://www.yunwp.cn/api/v3/file/get/1093/1007.json?sign=kJ5EJJLNzf63QKB1ykTZwbbW9vnMfi-2Wjumk-wtL-E%3D%3A0",
-            "name": "🎅小马"
-        },
-        {
-            "url": "http://byyds.top/w.txt",
-            "name": "🍟分享君"
-        },
-        {
             "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🐤云盘资源站"
         },
         {
             "url": "https://pastebin.com/raw/gtbKvnE1",
             "name": "🎱资源采集站"
-        },
-        {
-            "url": "https://agit.ai/hu/hcr/raw/branch/master/1012.txt",
-            "name": "🌹花花世界（未成年禁）"
         },
         {
             "url": "http://0317.atwebpages.com/wp-content/uploads/2022/11/tvbox.txt",
@@ -105,12 +73,8 @@
             "name": "未知名2"
         },
         {
-            "url": "http://js.134584.xyz/json/pp87.json",
-            "name": "未知名3"
-        },
-        {
             "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-            "name": "未知名4"
+            "name": "未知名3"
         }
       
     ]
