@@ -7,7 +7,7 @@
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
 {"key":"csp_Dy1010","name":"🔟双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xbb_555电影","name":"🖐555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/555电影.json"},
+{"key":"Tkys","name": "☁天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch": 1,"filterable": 1},
 {"key":"mtv_pc_酷云七七","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_快看影视","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_360影视" ,"name":"👌360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
@@ -15,7 +15,11 @@
 {"key":"mtv_xp_乐猪影院","name":"🐖乐猪影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-乐猪影院.json"},
 {"key":"mtv_xp_影视工厂","name":"🏏影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-影视工厂.json"},
 {"key":"mtv_xp_小纸条源","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
-{"key":"mtv_xp_易搜资源","name":"🔍易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"}
+{"key":"mtv_xp_易搜资源","name":"🔍易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
+{"key":"csp_xbb_555电影","name":"🖐555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/555电影.json"},
+{"key": "小苹果","name": "🍎小苹果","type": 3,"api":"csp_LiteApple","searchable":1,"quickSearch": 1,"filterable":1,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/xo.jar"},
+{"key": "Dy1010","name": "🎥电影1010","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/67755/cc.jar?sign=y9cTKxK4BVQsYaQnIXgBXvo_P0F2JrFDVXEm1tFowIA%3D%3A0"},
+{"key": "csp_新视觉","name": "🍁新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch": 1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/68477/%E6%96%B0%E8%A7%86%E8%A7%89.jar?sign=5hkB9freXo4-WOfuRa3Kc8_eUA4GPuMxVNgKOVUMnhs%3D%3A0"}
 
 ],
     
@@ -42,7 +46,7 @@
     
 //壁纸
     
-"wallpaper":"https://picsum.photos/1280/720/?blur=10",
+"wallpaper":"https://qiu.moe/a723",
 "spider":"https://raw.iqiq.io/liu673cn/box/main/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890",
     
     
